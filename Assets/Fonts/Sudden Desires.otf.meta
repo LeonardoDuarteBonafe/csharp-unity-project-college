@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: bbfd4d3ccbdd35542a64b515fe1c4674
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Sudden Desires
+  fontNames:
+  - Sudden Desires
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 4946a072bca2be845832a2874d5e766c, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

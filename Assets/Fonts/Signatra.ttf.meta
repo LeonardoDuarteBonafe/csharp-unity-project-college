@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: ff2e3941a215a784b8a8fb9c1b076e2e
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Signatra DEMO
+  fontNames:
+  - Signatra DEMO
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 29221cae07a14144a8ab828043eaa660, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

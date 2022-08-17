@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: bd283c3da30a41e47a1e02e7d118887d
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Happy Day School Opposed
+  fontNames:
+  - Happy Day School Opposed
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: a0062428074e8ac48a0ea0e0e71481f4, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
